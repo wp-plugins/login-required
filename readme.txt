@@ -1,4 +1,4 @@
-=== login requiered ===
+=== login required ===
 Contributors: shakabut
 Tags: login required, authentication
 Requires at least: 2.6.2
