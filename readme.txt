@@ -1,8 +1,8 @@
 === login required ===
 Contributors: shakabut
-Tags: login required, authentication
+Tags: login required, authentication, login
 Requires at least: 2.6.2
-Tested up to: 2.6.2
+Tested up to: 2.6.3
 Stable tag: 0.1
 
 Permit access to your blog only to the logged in users
