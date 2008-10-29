@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Login requiered WordPress Plugin
-Plugin URI: 
+Plugin URI: http://wordpress.org/extend/plugins/login-required/
 Based on : http://blog.taragana.com/index.php/archive/angsumans-authenticated-wordpress-plugin-password-protection-for-your-wordpress-blog/
 Description: This plugin allows you to make your WordPress site accessible to logged in users only. In other words to view your site they have to create / have an account in your site and be logged in. No configuration necessary. Simply activating the plugin is all that is required from you.
 
